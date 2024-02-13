@@ -4,6 +4,11 @@
 
 Estudante, 25 anos, no 3º período do curso de Análise e Desenvolvimento de Sistemas. Possuo  conhecimento e experiências de quase dois anos em Java, programação orientada a objetos e bancos de dados relacionais, sendo eles MySQL e Oracle. Estou preparado para contribuir significativamente em projetos de desenvolvimento de sistemas. Tenho habilidades e experiências em uma variedade de tecnologias e frameworks, como Spring Boot, MVC, DATA JPA e Hibernate, bem como familiaridade com o desenvolvimento de API REST e controle de versão utilizando Git e GitHub. Além disso, possuo conhecimentos em front-end, utilizando React.js, Bootstrap, JQuery, HTML5, CSS3 e JavaScript. Atualmente, estou aprimorando minhas habilidades em testes automatizados com JUnit, Mockito e metodologia TDD.
 
+[![Microsoftoutlook Badge](https://img.shields.io/badge/-alessandro_gomes@outlook.com.br-0511F2?style=flat-square&logo=Microsoftoutlook&logoColor=white&link=mailto:alessandro_gomes@outlook.com.br)](mailto:alessandro_gomes@outlook.com.br)
+<p align="left">
+<a href="https://www.linkedin.com/in/ale-gomes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+</p>
+
 ![header](https://capsule-render.vercel.app/api?type=soft&color=3942E4&height=80&section=header&text=Tecnologias&fontSize=40)
 
 <p align="center">
@@ -20,9 +25,13 @@ Estudante, 25 anos, no 3º período do curso de Análise e Desenvolvimento de Si
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
 
-### Me encontre
-<p align="left"> <a href="https://www.linkedin.com/in/ale-gomes/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<div align="center">
 
-### Badges
+![Github](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alessandro-gomes&theme=transparent)
+![Github](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alessandro-gomes&theme=transparent)
+
+</br>
 
 <a href="https://github.com/alessandro-gomes" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro-gomes&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+</div>
