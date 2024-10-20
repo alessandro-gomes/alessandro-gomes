@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3942E4&size=35&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Alessandro+Gomes.;Eu+sou+desenvolvedor+Full+Stack.;)](https://git.io/typing-svg)<br><br>
 
-Desenvolvedor, 26 anos, no 4º semestre do curso de Análise e Desenvolvimento de Sistemas. Possuo  conhecimento e experiências de dois anos em Java, programação orientada a objetos e bancos de dados relacional, sendo eles MySQL e Oracle. Estou preparado para contribuir significativamente em projetos de desenvolvimento de sistemas. 
+Desenvolvedor, 26 anos, no 4º semestre da graduação de Análise e Desenvolvimento de Sistemas. Possuo  conhecimentos em Java, programação orientada a objetos e bancos de dados relacional, sendo eles MySQL e Oracle. Estou preparado para contribuir significativamente em projetos de desenvolvimento de sistemas. 
 
 Tenho habilidades e experiências em uma variedade de tecnologias e frameworks, como Spring Boot, MVC, DATA JPA e Hibernate, bem como familiaridade com Linux, desenvolvimento de API REST e controle de versão utilizando Git e GitHub. Além disso, possuo conhecimentos em front-end, utilizando React.js, Bootstrap, JQuery, HTML5, CSS3 e JavaScript. Atualmente, estou aprimorando minhas habilidades em testes unitários e automatizados com JUnit, Mockito e metodologia TDD.
 
