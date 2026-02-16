@@ -2,9 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3942E4&size=35&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Alessandro+Gomes.;Eu+sou+desenvolvedor+Full+Stack.;)](https://git.io/typing-svg)<br><br>
 
-Desenvolvedor, 27 anos, no 6º semestre da graduação em Análise e Desenvolvimento de Sistemas. Possuo  conhecimentos em Java, programação orientada a objetos e bancos de dados relacional, sendo eles PostgreSQL, MySQL e Oracle. Estou preparado para contribuir significativamente em projetos de desenvolvimento de sistemas. 
+Sou formado em Análise e Desenvolvimento de Sistemas e atuo como Desenvolvedor Full Stack, participando do desenvolvimento e manutenção de aplicações web com Java (Spring Boot), React e PostgreSQL.
 
-Tenho habilidades e experiências em uma variedade de tecnologias e frameworks, como Spring Boot, MVC, DATA JPA e Hibernate, bem como familiaridade com Linux, desenvolvimento de API REST e controle de versão utilizando Git. Além disso, possuo conhecimentos em front-end, utilizando React.js, Bootstrap, JQuery, HTML5, CSS3 e JavaScript. Atualmente, estou aprimorando minhas habilidades em testes unitários e automatizados com JUnit, Mockito e metodologia TDD.
+Tenho experiência na construção de APIs REST, aplicação de boas práticas de Programação Orientada a Objetos (POO) e integração com bancos de dados relacionais. Utilizo JPA/Hibernate para persistência de dados e Git para controle de versão.
+
+No front-end, contribuo na implementação e manutenção de interfaces utilizando React, JavaScript, HTML5, CSS3 e Bootstrap.
+
+Busco constante evolução técnica e profissional, prezando por código limpo, organização e entrega de soluções eficientes.
+
 
 [![Microsoftoutlook Badge](https://img.shields.io/badge/-alessandro_gomes@outlook.com.br-0511F2?style=flat-square&logo=Microsoftoutlook&logoColor=white&link=mailto:alessandro_gomes@outlook.com.br)](mailto:alessandro_gomes@outlook.com.br)
 <p align="left">
@@ -15,6 +20,9 @@ Tenho habilidades e experiências em uma variedade de tecnologias e frameworks, 
 
 <p align="center">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" />
+</a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -31,10 +39,5 @@ Tenho habilidades e experiências em uma variedade de tecnologias e frameworks, 
 <div align="center">
 
 ![Github](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alessandro-gomes&theme=transparent)
-![Github](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alessandro-gomes&theme=transparent)
-
-</br>
-
-<a href="https://github.com/alessandro-gomes" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro-gomes&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 </div>
